@@ -7,12 +7,8 @@
 </div>
 <div>
 <ul>
-    <li><strong>Имя:</strong> Иван Иванов</li>
-    <li><strong>Возраст:</strong> 30 лет</li>
-    <li><strong>Email:</strong> ivan@example.com</li>
-    <li><strong>Телефон:</strong> +7 (123) 456-78-90</li>
-    <li><strong>Город:</strong> Москва</li>
-    <li><strong>Интересы:</strong> Программирование, Чтение, Путешествия</li>
+    <li><strong>🔭I am a beginner programmer</strong> </li>
+    <li><strong>🌱 I’m currently learning html, css, js, 1c</strong></li>
 </ul>
 </div>
 <!--
