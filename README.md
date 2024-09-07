@@ -2,6 +2,7 @@
 <div id="header" align="center">
   <img src="https://i.imgur.com/4SdB78W.gif" width="300" height="300"/>
 </div>
+### • About me:
 <!--
 **Kiselyaka/Kiselyaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
