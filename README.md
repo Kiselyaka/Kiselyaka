@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://gifdb.com/gif/irritated-cat-typing-on-keyboard-e0awoyntdi7c0clj.html)" width="100"/>
+</div>
 <!--
 **Kiselyaka/Kiselyaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
