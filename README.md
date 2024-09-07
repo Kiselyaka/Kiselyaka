@@ -3,7 +3,7 @@
   <img src="https://i.imgur.com/4SdB78W.gif" width="300" height="300"/>
 </div>
 <div>
-<b>About me:<</b>
+<b>About me:</b>
 </div>
 <!--
 **Kiselyaka/Kiselyaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
