@@ -1,4 +1,4 @@
-## Oh, hello 👋
+## - Oh, hello 👋.I'm Maxim.
 <div id="header" align="center">
   <img src="https://i.imgur.com/4SdB78W.gif" width="300" height="300"/>
 </div>
