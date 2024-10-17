@@ -14,7 +14,7 @@
 
 
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Kiselyaka&theme=dark" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Kiselyaka&theme=ocean-gradient" alt="GitHub Streak" /></a>
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiselyaka&layout=donut-vertical" alt="Top Langs" style="max-width: 100%;">
